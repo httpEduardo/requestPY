@@ -8,14 +8,8 @@
 
 <p align="center">
    <a href="https://github.com/aiqfome" style="text-decoration:none" target="_blank">
-     <img alt="Feito por AiqFome" src="https://img.shields.io/badge/made%20by-aiqfome-blueviolet">
+     <img alt="Feito por VOID" src="https://img.shields.io/badge/made%20by-HttpEduardo-blueviolet">
    </a>
-
-   <img alt="Última confirmação" src="https://img.shields.io/github/last-commit/aiqfome/requestPY">
-
-   <img alt="Contributors" src="https://img.shields.io/github/contributors/aiqfome/requestPY">
-
-   <img alt="License" src="https://img.shields.io/github/license/aiqfome/requestPY">
 </p>
 
 ---
